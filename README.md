@@ -1,6 +1,6 @@
 # 🇹🇳 Tunus Arapçası — Günlük İfadeler
 
-Tunus Arapçası (Darija) öğrenmek isteyenler için geliştirilmiş, Türkçe arayüzlü bir Flutter mobil uygulaması. Günlük hayatta kullanılan yüzlerce ifadeyi sesli telaffuz, Latin okunuş ve Arap alfabesiyle birlikte sunar.
+Sosyal sorumluluk projeleri için gittiğim Tunus’ta, yerel lehçe olan Darija’yı öğrenmenin zorluğunu bir fırsata dönüştürdüm. Flutter ile geliştirdiğim bu mobil uygulama, Türkçe konuşan kullanıcıların Tunus günlük hayatına hızla adapte olmasını sağlıyor. İçeriğinde yüzlerce ifadenin sesli ve yazılı karşılığını barındıran bu araç, kültürel etkileşimi teknolojiyle desteklemek amacıyla tasarlandı.
 
 ---
 
@@ -13,23 +13,13 @@ Tunus Arapçası (Darija) öğrenmek isteyenler için geliştirilmiş, Türkçe 
 - ⚙️ **Ses ayarları** — Konuşma hızı ve perde ayarını dilediğiniz gibi özelleştirin
 - 📱 **Material 3 tasarım** — Temiz, modern ve sade arayüz
 
----
-
-## 📸 Ekran Görüntüleri
-
-> _(Yakında eklenecek)_
-
----
-
-## 🚀 Kurulum ve Çalıştırma
-
 ### Gereksinimler
 
-| Araç | Sürüm |
-|---|---|
-| Flutter | ≥ 3.x (SDK `^3.8.1`) |
-| Dart | `^3.8.1` |
-| Android SDK | API 21+ |
+| Araç        | Sürüm                |
+| ----------- | -------------------- |
+| Flutter     | ≥ 3.x (SDK `^3.8.1`) |
+| Dart        | `^3.8.1`             |
+| Android SDK | API 21+              |
 
 ### Adımlar
 
@@ -49,12 +39,12 @@ flutter run
 
 ## 🛠️ Kullanılan Teknolojiler
 
-| Paket | Amaç |
-|---|---|
-| [`flutter_tts`](https://pub.dev/packages/flutter_tts) | Sesli telaffuz (Text-to-Speech) |
-| [`flutter_bloc`](https://pub.dev/packages/flutter_bloc) | Durum yönetimi (BLoC / Cubit) |
-| [`shared_preferences`](https://pub.dev/packages/shared_preferences) | Favori ifadelerin kalıcı saklanması |
-| [`equatable`](https://pub.dev/packages/equatable) | Durum nesnelerinin değer karşılaştırması |
+| Paket                                                               | Amaç                                     |
+| ------------------------------------------------------------------- | ---------------------------------------- |
+| [`flutter_tts`](https://pub.dev/packages/flutter_tts)               | Sesli telaffuz (Text-to-Speech)          |
+| [`flutter_bloc`](https://pub.dev/packages/flutter_bloc)             | Durum yönetimi (BLoC / Cubit)            |
+| [`shared_preferences`](https://pub.dev/packages/shared_preferences) | Favori ifadelerin kalıcı saklanması      |
+| [`equatable`](https://pub.dev/packages/equatable)                   | Durum nesnelerinin değer karşılaştırması |
 
 ---
 
@@ -84,28 +74,3 @@ tunusian_arabic/
   "ar": "أسلامة"
 }
 ```
-
-| Alan | Açıklama |
-|---|---|
-| `cat` | Kategori adı |
-| `tr` | Türkçe karşılık |
-| `latin` | Latin alfabesiyle okunuş |
-| `ar` | Tunus Arapçasıyla yazılış |
-
----
-
-## 🤝 Katkı
-
-Her türlü katkı memnuniyetle karşılanır!
-
-1. Fork'layın
-2. Yeni bir dal oluşturun: `git checkout -b ozellik/yeni-ifadeler`
-3. Değişikliklerinizi commit'leyin: `git commit -m 'feat: yeni ifadeler eklendi'`
-4. Dalınızı push'layın: `git push origin ozellik/yeni-ifadeler`
-5. Pull Request açın
-
----
-
-## 📄 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
