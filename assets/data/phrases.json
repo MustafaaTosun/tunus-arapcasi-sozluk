@@ -1,0 +1,920 @@
+[
+    {
+        "cat": "Selamlaşma",
+        "ar": "عسلامة",
+        "latin": "Aslema",
+        "tr": "Merhaba"
+    },
+    {
+        "cat": "Selamlaşma",
+        "ar": "شنية حوالك؟",
+        "latin": "Shnīya ḥwālek?",
+        "tr": "Nasılsın?"
+    },
+    {
+        "cat": "Selamlaşma",
+        "ar": "لاباس؟",
+        "latin": "Labes?",
+        "tr": "İyi misin?"
+    },
+    {
+        "cat": "Selamlaşma",
+        "ar": "يعطيك الصحة",
+        "latin": "Yaʿṭīk essaḥḥa",
+        "tr": "Eline sağlık/Teşekkürler"
+    },
+    {
+        "cat": "Selamlaşma",
+        "ar": "برشة شكراً",
+        "latin": "Barcha shukran",
+        "tr": "Çok teşekkür ederim"
+    },
+    {
+        "cat": "Selamlaşma",
+        "ar": "سامحني",
+        "latin": "Smeḥni",
+        "tr": "Affedersin/Özür dilerim"
+    },
+    {
+        "cat": "Selamlaşma",
+        "ar": "بسلامة",
+        "latin": "Besslema",
+        "tr": "Güle güle/Hoşça kal"
+    },
+    {
+        "cat": "Selamlaşma",
+        "ar": "معلش",
+        "latin": "Maʿlish",
+        "tr": "Önemli değil/Boş ver"
+    },
+    {
+        "cat": "Selamlaşma",
+        "ar": "صحّة!",
+        "latin": "Saḥḥa!",
+        "tr": "Afiyet olsun/Sıhhatler olsun"
+    },
+    {
+        "cat": "Selamlaşma",
+        "ar": "الله يبارك فيك",
+        "latin": "Allah ybarak fīk",
+        "tr": "Allah razı olsun/Bereket versin"
+    },
+    {
+        "cat": "Genel",
+        "ar": "نعم / لا",
+        "latin": "Naʿm / Lā",
+        "tr": "Evet / Hayır"
+    },
+    {
+        "cat": "Genel",
+        "ar": "مفهومتش",
+        "latin": "Ma fhmtsh",
+        "tr": "Anlamadım"
+    },
+    {
+        "cat": "Genel",
+        "ar": "تحكي عربي؟ / فرنسي؟ / إنجليزي؟",
+        "latin": "Taḥkī ʿArbī? / Faransī? / Inglīzī?",
+        "tr": "Arapça/Fransızca/İngilizce biliyor musun?"
+    },
+    {
+        "cat": "Genel",
+        "ar": "بالراحة لو سمحت، عاود",
+        "latin": "B-rraḥa law samaḥt, ʿāwed",
+        "tr": "Yavaşça lütfen, tekrar eder misin?"
+    },
+    {
+        "cat": "Genel",
+        "ar": "لطفاً",
+        "latin": "Lūṭfan",
+        "tr": "Lütfen"
+    },
+    {
+        "cat": "Genel",
+        "ar": "إن شاء الله",
+        "latin": "In shāʾ Allāh",
+        "tr": "İnşallah/Umarım"
+    },
+    {
+        "cat": "Genel",
+        "ar": "أنا من تركيا",
+        "latin": "Ana men Turkia",
+        "tr": "Ben Türkiye'denim"
+    },
+    {
+        "cat": "Genel",
+        "ar": "من فضلك",
+        "latin": "Min faḍlik",
+        "tr": "Lütfen"
+    },
+    {
+        "cat": "Genel",
+        "ar": "عفوا",
+        "latin": "ʿAfwan",
+        "tr": "Rica ederim/Bir şey değil"
+    },
+    {
+        "cat": "Sayılar",
+        "ar": "واحد",
+        "latin": "Waḥed",
+        "tr": "Bir"
+    },
+    {
+        "cat": "Sayılar",
+        "ar": "زوز",
+        "latin": "Zūz",
+        "tr": "İki"
+    },
+    {
+        "cat": "Sayılar",
+        "ar": "ثلاثة",
+        "latin": "Tleta",
+        "tr": "Üç"
+    },
+    {
+        "cat": "Sayılar",
+        "ar": "عشرة",
+        "latin": "ʿAshra",
+        "tr": "On"
+    },
+    {
+        "cat": "Sayılar",
+        "ar": "مائة",
+        "latin": "Mīya",
+        "tr": "Yüz"
+    },
+    {
+        "cat": "Sayılar",
+        "ar": "ألف",
+        "latin": "Elf",
+        "tr": "Bin"
+    },
+    {
+        "cat": "Zaman",
+        "ar": "اليوم",
+        "latin": "El-yōm",
+        "tr": "Bugün"
+    },
+    {
+        "cat": "Zaman",
+        "ar": "غدوة",
+        "latin": "Ghodwa",
+        "tr": "Yarın"
+    },
+    {
+        "cat": "Zaman",
+        "ar": "البارحة",
+        "latin": "El-bāriḥa",
+        "tr": "Dün"
+    },
+    {
+        "cat": "Zaman",
+        "ar": "صباح",
+        "latin": "Sabāḥ",
+        "tr": "Sabah"
+    },
+    {
+        "cat": "Zaman",
+        "ar": "مساء",
+        "latin": "Masāʾ",
+        "tr": "Akşam"
+    },
+    {
+        "cat": "Zaman",
+        "ar": "قدّاش الساعة؟",
+        "latin": "Qaddāsh es-sāʿa?",
+        "tr": "Saat kaç?"
+    },
+    {
+        "cat": "Yön/Adres",
+        "ar": "وين ...؟",
+        "latin": "Wīn ...?",
+        "tr": "... nerede?"
+    },
+    {
+        "cat": "Yön/Adres",
+        "ar": "على اليمين / على اليسار",
+        "latin": "ʿala el-yīmīn / ʿala el-yisār",
+        "tr": "Sağda / Solda"
+    },
+    {
+        "cat": "Yön/Adres",
+        "ar": "قدّاش بعيد؟",
+        "latin": "Qaddāsh bʿīd?",
+        "tr": "Ne kadar uzak?"
+    },
+    {
+        "cat": "Yön/Adres",
+        "ar": "نمشي على ساقي ولا يلزمني تاكسي؟",
+        "latin": "Nmshī ʿla sāqī wlla yilzemnī taxi?",
+        "tr": "Yürüyerek gidebilir miyim, yoksa taksi mi gerek?"
+    },
+    {
+        "cat": "Yön/Adres",
+        "ar": "دلّني على أقرب محطة مترو/ترانڤاي",
+        "latin": "Dallīni ʿla aqrab maḥaṭṭa metro/tranwāy",
+        "tr": "En yakın metro/tramvay durağına yönlendirir misin?"
+    },
+    {
+        "cat": "Ulaşım",
+        "ar": "قدّاش الكرا؟",
+        "latin": "Qaddāsh el-krā?",
+        "tr": "Ücret ne kadar? (taksi)"
+    },
+    {
+        "cat": "Ulaşım",
+        "ar": "وقف هوني لو سمحت",
+        "latin": "Waqef hūni law samaḥt",
+        "tr": "Lütfen burada dur"
+    },
+    {
+        "cat": "Ulaşım",
+        "ar": "للمدينة من فضلك",
+        "latin": "Lil-mdīna min faḍlik",
+        "tr": "Şehre, lütfen"
+    },
+    {
+        "cat": "Ulaşım",
+        "ar": "تخدم بالميتر؟",
+        "latin": "Tkhddem b-l-mītre?",
+        "tr": "Taksimetre açık mı?"
+    },
+    {
+        "cat": "Ulaşım",
+        "ar": "قدّاش يوصل الوقت للوجهة؟",
+        "latin": "Qaddāsh yūṣel el-weqt lil-wijha?",
+        "tr": "Varışa kaç dakika sürer?"
+    },
+    {
+        "cat": "Louage/Toplu Taşıma",
+        "ar": "منين نركب لوّاج للـ ...؟",
+        "latin": "Mnīn nirkeb louwāj ll-...?",
+        "tr": "... için louage nereden binerim?"
+    },
+    {
+        "cat": "Louage/Toplu Taşıma",
+        "ar": "قدّاش التذكرة للواحد؟",
+        "latin": "Qaddāsh t-thakra lil-wāḥed?",
+        "tr": "Tek kişi bileti ne kadar?"
+    },
+    {
+        "cat": "Louage/Toplu Taşıma",
+        "ar": "وقتاش يخرج آخر واحد؟",
+        "latin": "Waqtāsh yukhrej ākhir wāḥed?",
+        "tr": "Son sefer ne zaman?"
+    },
+    {
+        "cat": "Louage/Toplu Taşıma",
+        "ar": "نحب نقعد قبال الشباك",
+        "latin": "Nḥebb nqʿod qbal esh-shubbāk",
+        "tr": "Pencere kenarında oturmak istiyorum"
+    },
+    {
+        "cat": "Louage/Toplu Taşıma",
+        "ar": "المحطة هاذي توصل لـ ...؟",
+        "latin": "El-maḥaṭṭa hādhi twassel l-...?",
+        "tr": "Bu durak ...’a gider mi?"
+    },
+    {
+        "cat": "Alışveriş",
+        "ar": "بقدّاش هذا؟",
+        "latin": "Bqaddāsh hādhā?",
+        "tr": "Bu ne kadar?"
+    },
+    {
+        "cat": "Alışveriş",
+        "ar": "ينجم ينقص شوية؟",
+        "latin": "Yenjem yanquṣ shwayya?",
+        "tr": "Biraz indirim olur mu?"
+    },
+    {
+        "cat": "Alışveriş",
+        "ar": "ما عندكش ...؟",
+        "latin": "Ma ʿandeksh ...?",
+        "tr": "... yok mu?"
+    },
+    {
+        "cat": "Alışveriş",
+        "ar": "نحب نفكّ التجربة قبل ما نشري",
+        "latin": "Nḥebb nfakk et-tajrba qabl ma nshrī",
+        "tr": "Almadan önce denemek istiyorum"
+    },
+    {
+        "cat": "Alışveriş",
+        "ar": "فمّا ضمان ولا ترجيع؟",
+        "latin": "Famma ḍmān wlla tarjīʿ?",
+        "tr": "Garanti veya iade var mı?"
+    },
+    {
+        "cat": "Pazar/Market",
+        "ar": "تعطيني كيلو طماطم طازة ومن الأفضل الصغار",
+        "latin": "Taʿṭīnī kilo ṭmāṭem ṭāza, u min el-afḍal eṣ-ṣghār",
+        "tr": "Bir kilo taze domates ver, tercihen küçük olanlardan"
+    },
+    {
+        "cat": "Pazar/Market",
+        "ar": "نحب نص كيلو زيتون بالهريسة",
+        "latin": "Nḥebb niṣf kilo zītūn b-l-hrīsa",
+        "tr": "Yarım kilo harisalı zeytin istiyorum"
+    },
+    {
+        "cat": "Pazar/Market",
+        "ar": "توزنهم قدّاش خرجوا؟",
+        "latin": "Twaznhom qaddāsh kharju?",
+        "tr": "Tartınca ne kadar tuttu?"
+    },
+    {
+        "cat": "Pazar/Market",
+        "ar": "بدّللي هاذم، فيهم المعطوب",
+        "latin": "Baddilli hādhom, fīhom el-maʿṭūb",
+        "tr": "Bunları değiştirir misin, arızalı/çürük var"
+    },
+    {
+        "cat": "Pazar/Market",
+        "ar": "نخلّص بالكارتة إذا ينجم",
+        "latin": "Nkhallas b-l-kārta itha yinjem",
+        "tr": "Mümkünse kartla ödeyeceğim"
+    },
+    {
+        "cat": "Yeme-İçme",
+        "ar": "نحب ...",
+        "latin": "Nḥebb ...",
+        "tr": "... istiyorum"
+    },
+    {
+        "cat": "Yeme-İçme",
+        "ar": "بلا سكر/بلا ملح",
+        "latin": "Blā sukkar / blā milḥ",
+        "tr": "Şekersiz / Tuzsuz"
+    },
+    {
+        "cat": "Yeme-İçme",
+        "ar": "حلال؟",
+        "latin": "Halāl?",
+        "tr": "Helal mi?"
+    },
+    {
+        "cat": "Yeme-İçme",
+        "ar": "قدّيش حار؟",
+        "latin": "Qaddīsh ḥār?",
+        "tr": "Ne kadar acı?"
+    },
+    {
+        "cat": "Yeme-İçme",
+        "ar": "لو سمحت، من غير كزبرة وفلفل حار",
+        "latin": "Law samaḥt, men ghīr kuzbora w felfel ḥār",
+        "tr": "Lütfen kişniş ve acı biber olmasın"
+    },
+    {
+        "cat": "Yeme-İçme",
+        "ar": "نحب ناخذ الطلب تيك أوي",
+        "latin": "Nḥebb nākhudh eṭ-ṭalab take away",
+        "tr": "Paket servis istiyorum"
+    },
+    {
+        "cat": "Yeme-İçme",
+        "ar": "الفاتورة مفصّلة لو سمحت",
+        "latin": "El-fātūra mfassala law samaḥt",
+        "tr": "Ayrıntılı hesap alabilir miyim?"
+    },
+    {
+        "cat": "Restoran/Rezervasyon",
+        "ar": "طاولة لزوز لو سمحت الساعة الثمانية",
+        "latin": "Ṭāwla l-zūz law samaḥt s-sāʿa t-thmīnya",
+        "tr": "Saat sekize iki kişilik masa lütfen"
+    },
+    {
+        "cat": "Restoran/Rezervasyon",
+        "ar": "ينجم يكون مكان بلا دخّان؟",
+        "latin": "Yinjem ykūn mkān blā dkhkhān?",
+        "tr": "Sigara içilmeyen bölüm olabilir mi?"
+    },
+    {
+        "cat": "Restoran/Rezervasyon",
+        "ar": "إذا تأخّرنا شوية، الحجز يبقى؟",
+        "latin": "Itha tākḥarna shwayya, el-ḥajz yebqā?",
+        "tr": "Biraz gecikirsek rezervasyon korunur mu?"
+    },
+    {
+        "cat": "Diyet/Allerji",
+        "ar": "عندي حساسية من اللوز",
+        "latin": "ʿandī ḥassāsīya men ellōz",
+        "tr": "Badem alerjim var"
+    },
+    {
+        "cat": "Diyet/Allerji",
+        "ar": "ما نكلّش لحم الخنزير",
+        "latin": "Ma nəkulsh laḥm el-khenzīr",
+        "tr": "Domuz eti yemiyorum"
+    },
+    {
+        "cat": "Diyet/Allerji",
+        "ar": "أنا نباتية، شنوّا الخيارات المتاحة؟",
+        "latin": "Ana nabātiya, shnūwa el-khiyārāt el-metāḥa?",
+        "tr": "Vejetaryenim, uygun seçenekler neler?"
+    },
+    {
+        "cat": "Diyet/Allerji",
+        "ar": "من غير ڤلوتين لو سمحت",
+        "latin": "Men ghīr gluten law samaḥt",
+        "tr": "Lütfen glutensiz olsun"
+    },
+    {
+        "cat": "Acil",
+        "ar": "عاونّي لو سمحت",
+        "latin": "ʿāwnī law samaḥt",
+        "tr": "Lütfen yardım edin"
+    },
+    {
+        "cat": "Acil",
+        "ar": "إسعاف!",
+        "latin": "Isʿāf!",
+        "tr": "Ambulans!"
+    },
+    {
+        "cat": "Acil",
+        "ar": "بوليس!",
+        "latin": "Būlīs!",
+        "tr": "Polis!"
+    },
+    {
+        "cat": "Sağlık/Belirti",
+        "ar": "عندي حرارة ودوخة من البارحة",
+        "latin": "ʿandī ḥarāra w dūkha men el-bāṛiḥa",
+        "tr": "Dünden beri ateşim ve baş dönmem var"
+    },
+    {
+        "cat": "Sağlık/Belirti",
+        "ar": "بطني يوجع فيا برشة",
+        "latin": "Baṭnī yūjeʿ fīya barsha",
+        "tr": "Karnım çok ağrıyor"
+    },
+    {
+        "cat": "Sağlık/Belirti",
+        "ar": "نحتاج طبيب/طبيبة اليوم",
+        "latin": "Nḥtāj ṭbīb/ṭbība el-yōm",
+        "tr": "Bugün doktora ihtiyacım var"
+    },
+    {
+        "cat": "Sağlık/Belirti",
+        "ar": "عندي دوى معايا، وين نلقا صيدلية مفتوحة؟",
+        "latin": "ʿandī dwā maʿāya, wīn nlqā ṣaydaliya mftūḥa?",
+        "tr": "İlacım yanımda, açık eczane nerede?"
+    },
+    {
+        "cat": "Eczane/İlaç",
+        "ar": "نحب دوى لزكام قوي بلا نعاس",
+        "latin": "Nḥebb dwā liz-zukām qawī blā nʿās",
+        "tr": "Uykusuzluk yapmayan güçlü bir soğuk algınlığı ilacı istiyorum"
+    },
+    {
+        "cat": "Eczane/İlaç",
+        "ar": "فمّا مرهم للحروق الخفيفة؟",
+        "latin": "Famma marham lil-ḥrūq el-khfīfa?",
+        "tr": "Hafif yanıklar için merhem var mı?"
+    },
+    {
+        "cat": "Eczane/İlaç",
+        "ar": "كيفاش نستعمل الدوى وقدّاش المرّات؟",
+        "latin": "Kīfāsh nstʿaml ed-dwā w qaddāsh el-marrāt?",
+        "tr": "İlacı nasıl ve kaç kez kullanmalıyım?"
+    },
+    {
+        "cat": "Banka/Para",
+        "ar": "وين صرّاف آلي؟",
+        "latin": "Wīn ṣarrāf ālī?",
+        "tr": "ATM nerede?"
+    },
+    {
+        "cat": "Banka/Para",
+        "ar": "نبدّل عملة للأورو/الدينار",
+        "latin": "Nbaddel ʿomla lil-euro/ed-dīnār",
+        "tr": "Euro/Dinar bozdurmak istiyorum"
+    },
+    {
+        "cat": "Banka/Para",
+        "ar": "فمّا عمولة على السحب؟",
+        "latin": "Famma ʿmūla ʿla s-seḥb?",
+        "tr": "Çekimde komisyon var mı?"
+    },
+    {
+        "cat": "Banka/Para",
+        "ar": "نحب نفتح حساب مؤقّت",
+        "latin": "Nḥebb nftaḥ ḥsāb moʾaqqat",
+        "tr": "Geçici hesap açmak istiyorum"
+    },
+    {
+        "cat": "SIM/İnternet",
+        "ar": "نحب كارت إنترنت بريباي شهرية",
+        "latin": "Nḥebb kārt internet prepaid shahriyya",
+        "tr": "Aylık ön ödemeli internet hattı istiyorum"
+    },
+    {
+        "cat": "SIM/İnternet",
+        "ar": "قدّاش الجيغا وقدّاش الصلاحية؟",
+        "latin": "Qaddāsh el-gīga u qaddāsh eṣ-ṣalāḥiya?",
+        "tr": "Kaç GB ve geçerlilik süresi nedir?"
+    },
+    {
+        "cat": "SIM/İnternet",
+        "ar": "كيفاش نفعّل الباقة/نزيد رصيد؟",
+        "latin": "Kīfāsh nfaʿʿel el-bāqa / nzīd rasīd?",
+        "tr": "Paketi nasıl aktif ederim / nasıl TL yüklerim?"
+    },
+    {
+        "cat": "SIM/İnternet",
+        "ar": "خدمة التجوال مش شغّالة",
+        "latin": "Khidmet et-tajwāl msh shghghāla",
+        "tr": "Dolaşım hizmeti çalışmıyor"
+    },
+    {
+        "cat": "Pazarlık",
+        "ar": "غالي برشة!",
+        "latin": "Ghāli barsha!",
+        "tr": "Çok pahalı!"
+    },
+    {
+        "cat": "Pazarlık",
+        "ar": "تنقص شوية؟",
+        "latin": "Tnaqqes shwayya?",
+        "tr": "Biraz indirir misiniz?"
+    },
+    {
+        "cat": "Pazarlık",
+        "ar": "آخر ثمن؟",
+        "latin": "Ākher thaman?",
+        "tr": "Son fiyat nedir?"
+    },
+    {
+        "cat": "Pazarlık",
+        "ar": "نعطيك السعر هذا إذا ناخذ زوج",
+        "latin": "Naʿṭīk es-seʿr hādhā itha nākhudh zūz",
+        "tr": "İki tane alırsam bu fiyata alırım"
+    },
+    {
+        "cat": "Pazarlık",
+        "ar": "بلاش الكيس؟/ بلاش التوصيل؟",
+        "latin": "Blāsh el-kīs? / blāsh et-tawsīl?",
+        "tr": "Poşet/teslimat ücretsiz mi?"
+    },
+    {
+        "cat": "Pazarlık",
+        "ar": "ما نجمش نفوت ... دينار",
+        "latin": "Ma najjemsh nfūt ... dīnār",
+        "tr": "... dinardan fazlasını veremem"
+    },
+    {
+        "cat": "Havalimanı",
+        "ar": "باسبوري هوني",
+        "latin": "Passpori hūni",
+        "tr": "Pasaportum burada"
+    },
+    {
+        "cat": "Havalimanı",
+        "ar": "فين الكونترول؟",
+        "latin": "Fīn el-contrôle?",
+        "tr": "Kontrol nerede?"
+    },
+    {
+        "cat": "Havalimanı",
+        "ar": "شنيا بوّابة الرحلة؟",
+        "latin": "Shnīya bwābet er-raḥla?",
+        "tr": "Uçağın kapısı hangisi?"
+    },
+    {
+        "cat": "Havalimanı",
+        "ar": "فمّا واي فاي؟",
+        "latin": "Famma Wi‑Fi?",
+        "tr": "Wi‑Fi var mı?"
+    },
+    {
+        "cat": "Havalimanı",
+        "ar": "قدّاش وقت للتشيك إن؟",
+        "latin": "Qaddāsh weqt lit-check-in?",
+        "tr": "Check‑in ne zaman?"
+    },
+    {
+        "cat": "Havalimanı",
+        "ar": "عندي ڤيزا سياحية",
+        "latin": "ʿandi vīza siyāḥīya",
+        "tr": "Turist vizem var"
+    },
+    {
+        "cat": "Havalimanı/ Sorun",
+        "ar": "حقيبتي ما جاتش، وين نعمل البلاغ؟",
+        "latin": "Ḥqībtī mā jātech, wīn naʿmel el-bilāgh?",
+        "tr": "Bagajım gelmedi, nereye tutanak tutabilirim?"
+    },
+    {
+        "cat": "Havalimanı/ Sorun",
+        "ar": "التذكرة فيها غلط في الاسم",
+        "latin": "Et-thakra fīha ghalaṭ fil-ism",
+        "tr": "Bilette isim hatası var"
+    },
+    {
+        "cat": "Havalimanı/ Sorun",
+        "ar": "نحتاج مترجم لو سمحت",
+        "latin": "Nḥtāj mutarjim law samaḥt",
+        "tr": "Bir tercümana ihtiyacım var, lütfen"
+    },
+    {
+        "cat": "Konaklama/Check‑in",
+        "ar": "عندي حجز باسم ...",
+        "latin": "ʿandi ḥajz b-ism ...",
+        "tr": "... adına rezervasyonum var"
+    },
+    {
+        "cat": "Konaklama/Check‑in",
+        "ar": "فمّا غرفة شاغرة؟",
+        "latin": "Famma ghurfa shāghra?",
+        "tr": "Boş oda var mı?"
+    },
+    {
+        "cat": "Konaklama/Check‑in",
+        "ar": "قدّاش بالّيلة؟ مع الفطور؟",
+        "latin": "Qaddāsh b-ilīla? maʿ el-fṭūr?",
+        "tr": "Gecelik ücret ne kadar? Kahvaltı dahil mi?"
+    },
+    {
+        "cat": "Otel Sorunu",
+        "ar": "المكيف ما يبردش، ينجم حد يجي يصلّحو؟",
+        "latin": "El-mukayyef mā ybarridsh, yinjem ḥad yjī yṣallaḥu?",
+        "tr": "Klima soğutmuyor, biri gelip tamir edebilir mi?"
+    },
+    {
+        "cat": "Otel Sorunu",
+        "ar": "الماء السخون مقطوع",
+        "latin": "El-mā es-skhūn maqtūʿ",
+        "tr": "Sıcak su kesik"
+    },
+    {
+        "cat": "Otel Sorunu",
+        "ar": "نحب نبدّل الغرفة، الصوت عالي برشة",
+        "latin": "Nḥebb nbaddel el-ghurfa, eṣ-ṣout ʿālī barsha",
+        "tr": "Odayı değiştirmek istiyorum, çok gürültü var"
+    },
+    {
+        "cat": "Airbnb/Ev",
+        "ar": "باش نوصل قرابة السابعة، ينجم نسلّم المفاتيح وقتها؟",
+        "latin": "Bāsh nwṣel qrābet es-sāʿa es-sbʿa, yinjem nsallem el-mafātīḥ waqt’ha?",
+        "tr": "Saat yedi gibi varacağım, anahtar teslimi o zamanda mümkün mü?"
+    },
+    {
+        "cat": "Airbnb/Ev",
+        "ar": "كيفاش نرمي الزبلة ونفصل الغاز والكهرباء؟",
+        "latin": "Kīfāsh nirmī ez-zbla w nfsel el-ghāz w el-kahrabāʾ?",
+        "tr": "Çöpleri nereye atayım, gaz ve elektriği nasıl kapatayım?"
+    },
+    {
+        "cat": "Airbnb/Ev",
+        "ar": "فمّا تعليمات للخروج؟",
+        "latin": "Famma taʿlīmāt lil-khurūj?",
+        "tr": "Çıkış için talimat var mı?"
+    },
+    {
+        "cat": "Çamaşırhane",
+        "ar": "نحب نغسل هدوم، قدّاش الكيلو؟",
+        "latin": "Nḥebb nghasel hdūm, qaddāsh el-kīlo?",
+        "tr": "Çamaşır yıkatmak istiyorum, kilo fiyatı nedir?"
+    },
+    {
+        "cat": "Çamaşırhane",
+        "ar": "تجفيف وكوي داخلين في الثمن؟",
+        "latin": "Tajfīf w kwī dākhlin fil-thaman?",
+        "tr": "Kurutma ve ütü fiyata dahil mi?"
+    },
+    {
+        "cat": "Çamaşırhane",
+        "ar": "ينجموا يكونوا واجدين اليوم المسا؟",
+        "latin": "Yinjmū ykūnū wājdin el-yōm el-mesā?",
+        "tr": "Akşama hazır olabilir mi?"
+    },
+    {
+        "cat": "Müze/Ören Yeri",
+        "ar": "قدّاش الدخول؟",
+        "latin": "Qaddāsh ed-dukhūl?",
+        "tr": "Giriş ücreti ne kadar?"
+    },
+    {
+        "cat": "Müze/Ören Yeri",
+        "ar": "وقت الشّغل؟",
+        "latin": "Weqt esh-shughl?",
+        "tr": "Açılış saatleri nedir?"
+    },
+    {
+        "cat": "Müze/Ören Yeri",
+        "ar": "مرشد سياحي؟",
+        "latin": "Murshid siyāḥī?",
+        "tr": "Rehber var mı?"
+    },
+    {
+        "cat": "Müze/Ören Yeri",
+        "ar": "نحب نتصوّر، يصير؟",
+        "latin": "Nḥebb nitsawwer, ysīr?",
+        "tr": "Fotoğraf çekebilir miyim?"
+    },
+    {
+        "cat": "Sohbet/Arkadaşlık",
+        "ar": "شنيا اسمك؟",
+        "latin": "Shnīya ismak/ismek?",
+        "tr": "Adın ne?"
+    },
+    {
+        "cat": "Sohbet/Arkadaşlık",
+        "ar": "منين إنت؟",
+        "latin": "Mnīn enta/enti?",
+        "tr": "Nerelisin?"
+    },
+    {
+        "cat": "Sohbet/Arkadaşlık",
+        "ar": "تحب نتلاقاو غدوة للقهوة؟",
+        "latin": "Tḥebb ntlāqaw ghodwa l-qahwa?",
+        "tr": "Yarın kahve için buluşalım mı?"
+    },
+    {
+        "cat": "Sohbet/Arkadaşlık",
+        "ar": "يعجبني برشة الجوّ لهنا",
+        "latin": "Yaʿjbnī barsha el-jaww l-hnā",
+        "tr": "Buradaki atmosferi çok sevdim"
+    },
+    {
+        "cat": "Sohbet/Arkadaşlık",
+        "ar": "منين جيت؟",
+        "latin": "Mnīn jīt?",
+        "tr": "Nereden geliyorsun?"
+    },
+    {
+        "cat": "Sohbet/Arkadaşlık",
+        "ar": "عجبك/عجبك؟",
+        "latin": "ʿAjbek/ʿAjbek?",
+        "tr": "Beğendin mi?"
+    },
+    {
+        "cat": "Davet/Etkinlik",
+        "ar": "ثمّة حفلة صغنونة مع صحابي، تنجم/تنجمي تجي؟",
+        "latin": "Thamma ḥafla ṣghnūna maʿ ṣḥābī, tnajjem/tnajjmi tjī?",
+        "tr": "Arkadaşlarla küçük bir etkinlik var, gelir misin?"
+    },
+    {
+        "cat": "Davet/Etkinlik",
+        "ar": "نحجز طاولة للسبعة أشخاص؟",
+        "latin": "Nḥjez ṭāwla lis-sbʿa ashkhāṣ?",
+        "tr": "Yedi kişi için masa ayırtalım mı?"
+    },
+    {
+        "cat": "Davet/Etkinlik",
+        "ar": "نبدّل الوقت إذا يناسبك أكثر",
+        "latin": "Nbaddel el-weqt itha y nāsbek akthar",
+        "tr": "Uygunsa zamanı değiştirebilirim"
+    },
+    {
+        "cat": "Foto/İzin",
+        "ar": "ينجم نصوّرك؟",
+        "latin": "Yinjem nṣawwerk?",
+        "tr": "Sizi çekebilir miyim?"
+    },
+    {
+        "cat": "Foto/İzin",
+        "ar": "تصوّرني قدّام المنظر هذا لو سمحت",
+        "latin": "Ṣawwarnī qddām el-manẓar hādhā law samaḥt",
+        "tr": "Bu manzara önünde bir fotoğrafımı çeker misin?"
+    },
+    {
+        "cat": "Foto/İzin",
+        "ar": "نستعمل الصورة على السوشيال؟",
+        "latin": "Nstaʿmil eṣ-ṣūra ʿla es-sōshyāl?",
+        "tr": "Fotoğrafı sosyal medyada kullanabilir miyim?"
+    },
+    {
+        "cat": "Güvenlik/Şikayet",
+        "ar": "ثمة ازعاج من الغرفة الملاصقة طول الليل",
+        "latin": "Thamma izʿāj men el-ghurfa el-mulāṣqa ṭūl el-līl",
+        "tr": "Yan odadan tüm gece gürültü geliyor"
+    },
+    {
+        "cat": "Güvenlik/Şikayet",
+        "ar": "حدّ قلّ أدبه معايا في الشارع",
+        "latin": "Ḥadd qall ʾadbu maʿāya f-sh-shāreʿ",
+        "tr": "Sokakta biri saygısızlık yaptı"
+    },
+    {
+        "cat": "Güvenlik/Şikayet",
+        "ar": "نحب نقدّم شكوى رسمية",
+        "latin": "Nḥebb nqaddem shakwā rasmiyya",
+        "tr": "Resmî şikâyet yapmak istiyorum"
+    },
+    {
+        "cat": "Kaybolan Eşya",
+        "ar": "ضيّعت محفظتي/تليفوني، آخر مرّة شفتو في ...",
+        "latin": "Ḍayyaʿt maḥfaẓtī/telīfūnī, ākhir marra shuftu f-...",
+        "tr": "Cüzdanımı/telefonumu kaybettim, en son ...’da gördüm"
+    },
+    {
+        "cat": "Kaybolan Eşya",
+        "ar": "إذا لقاها حدّ، ينجم يتّصل بالرقم هذا؟",
+        "latin": "Itha lqāhā ḥadd, yinjem yittṣel b-er-raqm hādhā?",
+        "tr": "Biri bulursa bu numaradan ulaşabilir mi?"
+    },
+    {
+        "cat": "Kaybolan Eşya",
+        "ar": "فمّا مكتب مفقودات قريب؟",
+        "latin": "Famma maktab mafqūdāt qarīb?",
+        "tr": "Yakında kayıp eşya bürosu var mı?"
+    },
+    {
+        "cat": "Şikayet/İade",
+        "ar": "المنتوج هذا ما خدمش كيما لازم، نحب نرجّعو",
+        "latin": "El-mantūj hādhā mā khdmsh kīma lāzem, nḥebb nrajjaʿu",
+        "tr": "Bu ürün düzgün çalışmıyor, iade etmek istiyorum"
+    },
+    {
+        "cat": "Şikayet/İade",
+        "ar": "عندي الفاتورة، تنجّموا ترجعولي الفلوس؟",
+        "latin": "ʿandī el-fātūra, tnajjmū tarjaʿūlī el-flūs?",
+        "tr": "Faturam var, ücret iadesi yapabilir misiniz?"
+    },
+    {
+        "cat": "Şikayet/İade",
+        "ar": "ننصحكم تحسّنوا الخدمة هوني",
+        "latin": "Nansaḥkum tuḥassnū el-khidma hūnī",
+        "tr": "Hizmeti burada geliştirmenizi öneririm"
+    },
+    {
+        "cat": "Kafe",
+        "ar": "كهوة عربيّة / إسبرسو",
+        "latin": "Qahwa ʿarbiyya / Espresso",
+        "tr": "Arap kahvesi / Espresso"
+    },
+    {
+        "cat": "Kafe",
+        "ar": "كابة حليب",
+        "latin": "Kāba ḥlīb",
+        "tr": "Sütlü kahve (latte tarzı)"
+    },
+    {
+        "cat": "Kafe",
+        "ar": "شاي بأتاي",
+        "latin": "Shāy b-ʾatāy",
+        "tr": "Nane çayı"
+    },
+    {
+        "cat": "Kafe",
+        "ar": "من غير سكر",
+        "latin": "Men ghīr sukkar",
+        "tr": "Şekersiz olsun"
+    },
+    {
+        "cat": "Kafe",
+        "ar": "نخلّص توا ولا بعد؟",
+        "latin": "Nkhallas tawa wlla baʿd?",
+        "tr": "Şimdi mi sonra mı ödeyeceğim?"
+    },
+    {
+        "cat": "Kafe",
+        "ar": "فطور خفيف",
+        "latin": "Fṭūr khfīf",
+        "tr": "Hafif kahvaltı"
+    },
+    {
+        "cat": "Kafe",
+        "ar": "ماء بارد",
+        "latin": "Māʔ bāred",
+        "tr": "Soğuk su"
+    },
+    {
+        "cat": "Kafe",
+        "ar": "كعبة كرواسون",
+        "latin": "Kaʿbet croissant",
+        "tr": "Bir kruvasan"
+    },
+    {
+        "cat": "Kafe",
+        "ar": "فاتورة لو سمحت",
+        "latin": "Fātūra law samaḥt",
+        "tr": "Hesap lütfen"
+    },
+    {
+        "cat": "Kafe",
+        "ar": "بالكارتة / نقدي",
+        "latin": "B-l-kārta / naqdi",
+        "tr": "Kartla / Nakit"
+    },
+    {
+        "cat": "Kültürel Nezaket",
+        "ar": "يعطيك الصحّة، خدمة باهية برشة",
+        "latin": "Yaʿṭīk es-saḥḥa, khidma bāhiya barsha",
+        "tr": "Eline sağlık, hizmet çok iyiydi"
+    },
+    {
+        "cat": "Kültürel Nezaket",
+        "ar": "إن شاء الله نهار آخر نتقابلو",
+        "latin": "In shāʾ Allāh nhār ākher ntaqāblū",
+        "tr": "İnşallah başka bir gün tekrar görüşürüz"
+    },
+    {
+        "cat": "Kültürel Nezaket",
+        "ar": "ربي يفضّلك",
+        "latin": "Rabbi yfaḍḍlek",
+        "tr": "Allah razı olsun/Var ol"
+    }
+]
